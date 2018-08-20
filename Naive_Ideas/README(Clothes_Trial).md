@@ -15,7 +15,9 @@ This could be a naive idea about how to implement the AR based Clothes Trial Dem
 ### Prerequisites
 
 Software: Blender, Tensorflow, Teras or some others?
+
 Hardware: Kinect, or some other Sensors or some others?
+
 Others: some research from Garment industry for the Clothes or somethings important for real-time clothes trial?
 
 ## Evaluation
