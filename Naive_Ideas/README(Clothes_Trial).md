@@ -18,7 +18,7 @@ Software: Blender, Tensorflow, Teras or some others?
 
 Hardware: Kinect, or some other Sensors or some others?
 
-Others: some research from Garment industry for the Clothes or somethings important for real-time clothes trial?
+Others: some research from garment industry for the clothes or somethings important for real-time clothes trial?
 
 ## Evaluation
 
