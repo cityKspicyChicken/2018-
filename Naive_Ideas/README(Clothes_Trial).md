@@ -9,7 +9,7 @@ This could be a naive idea about how to implement the AR based Clothes Trial Dem
 3. Using clothes Simulation methods in Blender(see video:https://www.youtube.com/watch?v=szEeu6_b4fg);
 (because Blender is open-source software maybe we can only use the source code of the simulation part to implement our own Demo)
 4. Repair the clothes models to body suitable models;
-(I think this step we can adopt some Machine Learning methods, sothat this step will automatic excution)
+(I think this step we can adopt some Machine Learning methods, sothat this step will automatic execute)
 5. Build a front-end GUI for the clothes trial in realtime.
 
 ### Prerequisites
@@ -22,7 +22,7 @@ Others: some research from garment industry for the clothes or somethings import
 
 ## Evaluation
 
-After we build our Demo, we should first try it and find the evaluation methods to tune it up.
+After we build the Demo, we should first try it and find the evaluation methods to tune it up.
 
 ### Other questions
 
